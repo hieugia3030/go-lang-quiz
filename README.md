@@ -14,8 +14,8 @@ A simple GoLang console application to show quiz from a csv file and take answer
 
 # How to use a new csv file
 - Create a new csv file with the format:
-  question1, ans1
-  question2, ans2
+  question1, ans1\n
+  question2, ans2\n
   ...
 
   For example:
